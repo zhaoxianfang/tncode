@@ -117,7 +117,6 @@ class TnCode
             dirname(__FILE__) . '/bg/3.png',
             dirname(__FILE__) . '/bg/4.png',
             dirname(__FILE__) . '/bg/5.png',
-            dirname(__FILE__) . '/bg/6.png',
         ];
 
         // 从 $bgImg 里面随机取出一个元素作为背景图
